@@ -1,0 +1,9 @@
+div {
+    background-color: burlywood ;
+    border: 2px black solid;
+}
+li {
+    background-color: antiquewhite;
+    border:  3px black dotted;
+    border-radius: 20px;
+}
